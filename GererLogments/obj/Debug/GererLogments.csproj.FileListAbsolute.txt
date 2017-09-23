@@ -1,0 +1,24 @@
+C:\Users\dell\Desktop\bochror zaml\GererLogments\GererLogments\bin\Debug\GererLogments.exe.config
+C:\Users\dell\Desktop\bochror zaml\GererLogments\GererLogments\bin\Debug\GererLogments.exe
+C:\Users\dell\Desktop\bochror zaml\GererLogments\GererLogments\bin\Debug\GererLogments.pdb
+C:\Users\dell\Desktop\bochror zaml\GererLogments\GererLogments\obj\Debug\GererLogments.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\bochror zaml\GererLogments\GererLogments\obj\Debug\GererLogments.Form1.resources
+C:\Users\dell\Desktop\bochror zaml\GererLogments\GererLogments\obj\Debug\GererLogments.Properties.Resources.resources
+C:\Users\dell\Desktop\bochror zaml\GererLogments\GererLogments\obj\Debug\GererLogments.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\bochror zaml\GererLogments\GererLogments\obj\Debug\GererLogments.exe
+C:\Users\dell\Desktop\bochror zaml\GererLogments\GererLogments\obj\Debug\GererLogments.pdb
+C:\Users\dell\Desktop\Examen 2015 evenmentielle\GererLogments\bin\Debug\GererLogments.exe.config
+C:\Users\dell\Desktop\Examen 2015 evenmentielle\GererLogments\obj\Debug\GererLogments.exe
+C:\Users\dell\Desktop\Examen 2015 evenmentielle\GererLogments\obj\Debug\GererLogments.pdb
+C:\Users\dell\Desktop\Examen 2015 evenmentielle\GererLogments\bin\Debug\GererLogments.exe
+C:\Users\dell\Desktop\Examen 2015 evenmentielle\GererLogments\bin\Debug\GererLogments.pdb
+C:\Users\dell\Desktop\Examen 2015 evenmentielle\GererLogments\obj\Debug\GererLogments.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Examen 2015 evenmentielle\GererLogments\obj\Debug\GererLogments.Form1.resources
+C:\Users\dell\Desktop\Examen 2015 evenmentielle\GererLogments\obj\Debug\GererLogments.Properties.Resources.resources
+C:\Users\dell\Desktop\Examen 2015 evenmentielle\GererLogments\obj\Debug\GererLogments.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\New folder\Examen 2015 evenmentielle\GererLogments\bin\Debug\GererLogments.exe.config
+C:\Users\dell\Desktop\New folder\Examen 2015 evenmentielle\GererLogments\obj\Debug\GererLogments.exe
+C:\Users\dell\Desktop\New folder\Examen 2015 evenmentielle\GererLogments\obj\Debug\GererLogments.pdb
+D:\ALL\New folder\Examen 2015 evenmentielle\GererLogments\bin\Debug\GererLogments.exe.config
+D:\ALL\New folder\Examen 2015 evenmentielle\GererLogments\obj\Debug\GererLogments.exe
+D:\ALL\New folder\Examen 2015 evenmentielle\GererLogments\obj\Debug\GererLogments.pdb
